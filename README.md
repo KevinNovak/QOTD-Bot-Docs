@@ -119,6 +119,7 @@ Below is a list of all commands available in QOTD Bot. Some commands may be hidd
     -   `delete` - Delete a card.
 -   `/test` - Trigger a test post.
 -   `/post` - Force a card to be posted.
+-   `/download` - Download QOTD Starter Deck.
 -   `/suggest`
     -   `new`\*\* - Suggest a new card.
     -   `edit`
