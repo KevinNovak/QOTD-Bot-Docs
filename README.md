@@ -85,6 +85,7 @@ Below is a list of all commands available in QOTD Bot. Some commands may be hidd
     -   `move` - Move a channel's setup to a different channel.
     -   `pause` - Pause a channel.
     -   `resume` - Resume a channel.
+    -   `skip` - Skip or unskip a channel's next post.
     -   `delete` - Delete a channel setup.
 -   `/deck`
     -   `new` - Create a new deck.
