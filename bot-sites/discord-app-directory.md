@@ -2,7 +2,7 @@ __**Introduction**__
 
 QOTD Bot helps keep your community active by automatically posting questions, facts, quotes, and more!
 
-__ **Features**__
+__**Features**__
 
 -   **Schedule posts** daily, weekly, monthly, or whatever custom schedule!
 -   Use the **built-in "QOTD Starter Deck"** or add your own **custom cards** (questions, facts, quotes, etc).
