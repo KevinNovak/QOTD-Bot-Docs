@@ -117,7 +117,7 @@ Below is a list of all commands available in QOTD Bot. Some commands may be hidd
 -   `/info` \- View bot info.
 -   `/help` \- Find help or contact support.
 
-\*\*This command requires you to have voted recently if your server is not subscribed to premium. You can [vote at the link here](https://top.gg/bot/713586207119900693/vote). Afterwards you will have access to any vote-required commands for 7 days.
+\*\*This command requires you to have voted recently if your server is not subscribed to premium. Afterwards you will have access to any vote-required commands for 7 days.
 
 __**Command Permissions**__
 
