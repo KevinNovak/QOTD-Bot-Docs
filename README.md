@@ -17,7 +17,7 @@ QOTD Bot helps keep your community active by automatically posting questions, fa
 -   Control how posts are made, with support for **threads** and **pinning** messages.
 -   Automatically **ping roles** when posts are made.
 -   Allow users to **submit card suggestions** for the server!
--   Use the **queue** to control which cards are posted next!
+-   Use the **queue** to force one or more specific cards to be posted before the others!
 -   Customize your post with a **custom title, description, and color**!
 
 ## Getting Started
@@ -99,7 +99,7 @@ Below is a list of all commands available in QOTD Bot. Some commands may be hidd
     -   `order` - Reorder a card in a deck.
     -   `enable` - Enable a deck.
     -   `disable` - Disable a deck.
-    -   `shuffle` - Shuffle order of all cards in a deck.
+    -   `shuffle` - Shuffle the order of all cards in a deck.
     -   `reset` - Reset a deck.
     -   `delete` - Delete a deck.
 -   `/queue`
@@ -133,7 +133,7 @@ Below is a list of all commands available in QOTD Bot. Some commands may be hidd
 -   `/info` - View bot info.
 -   `/help` - Find help or contact support.
 
-\*\*This command requires you to have voted recently if your server is not subscribed to premium. You can [vote at the link here](https://top.gg/bot/713586207119900693/vote). Afterwards you will have access to any vote-required commands for 7 days.
+\*\*This command requires you to have voted recently if your server is not subscribed to premium. You can [vote at the link here](https://top.gg/bot/713586207119900693/vote). Afterwards, you will have access to any vote-required commands for 7 days.
 
 ### Command Permissions
 
