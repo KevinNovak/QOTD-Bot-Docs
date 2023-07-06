@@ -66,6 +66,17 @@ Below is a list of all commands available in QOTD Bot. Some commands may be hidd
     -   `cards` - View cards in a deck.
     -   `card` - Preview a specific card.
     -   `suggestions` -View suggested cards for a channel.
+-   `/community`
+    -   `browse` - Browse community decks.
+    -   `tags` - Browse community deck tags.
+    -   `search` - Search community decks.
+    -   `info` - View a community deck's information.
+    -   `edit`
+        -   `name` - Edit a community deck's name.
+        -   `description` - Edit a community deck's description.
+        -   `tag` - Toggle a community deck's tag.
+        -   `language` - Edit a community deck's language.
+    -   `delete` - Delete a community deck.
 -   `/server`
     -   `settings` - View server settings.
     -   `edit`
@@ -120,7 +131,8 @@ Below is a list of all commands available in QOTD Bot. Some commands may be hidd
     -   `delete` - Delete a card.
 -   `/test` - Trigger a test post.
 -   `/post` - Force a card to be posted.
--   `/download` - Download QOTD Starter Deck.
+-   `/publish` - Publish (or republish) a deck to the community.
+-   `/download` - Download a community deck.
 -   `/suggest`
     -   `new`\*\* - Suggest a new card.
     -   `edit`
