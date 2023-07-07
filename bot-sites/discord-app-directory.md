@@ -55,6 +55,7 @@ Below is a list of all commands available in QOTD Bot. Some commands may be hidd
     -   `tags` \- Browse community deck tags.
     -   `search` \- Search community decks.
     -   `info` \- View a community deck's information.
+    -   `cards` \- View a community deck's cards.
     -   `edit`
         -   `name` \- Edit a community deck's name.
         -   `description` \- Edit a community deck's description.
