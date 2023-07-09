@@ -65,6 +65,7 @@ Below is a list of all commands available in QOTD Bot. Some commands may be hidd
     -   `decks` - View all decks in a channel.
     -   `cards` - View cards in a deck.
     -   `card` - Preview a specific card.
+    -   `queue` - View the queue for a channel.
     -   `suggestions` -View suggested cards for a channel.
 -   `/community`
     -   `browse` - Browse community decks.
