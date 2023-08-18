@@ -108,7 +108,7 @@ Below is a list of all commands available in QOTD Bot. Some commands may be hidd
     -   `approve` \- Approve a suggested card.
     -   `deny` \- Deny a suggested card.
 -   `/card`
-    -   `add`\*\* \- Add a new card.
+    -   `add` \- Add a new card.
     -   `edit`
         -   `text` \- Edit a card's text.
         -   `image` \- Edit a card's image.
@@ -118,9 +118,9 @@ Below is a list of all commands available in QOTD Bot. Some commands may be hidd
 -   `/test` \- Trigger a test post.
 -   `/post` \- Force a card to be posted.
 -   `/publish` \- Publish (or republish) a deck to the community.
--   `/download` \- Download a community deck.
+-   `/download`\*\* \- Download a community deck.
 -   `/suggest`
-    -   `new`\*\* \- Suggest a new card.
+    -   `new` \- Suggest a new card.
     -   `edit`
         -   `text` \- Edit a suggested card's text.
         -   `image` \- Edit a suggested card's image.
@@ -131,7 +131,7 @@ Below is a list of all commands available in QOTD Bot. Some commands may be hidd
 -   `/info` \- View bot info.
 -   `/help` \- Find help or contact support.
 
-\*\*This command requires you to have voted recently if your server is not subscribed to premium. Afterwards you will have access to any vote-required commands for 7 days.
+\*\*This command requires you to have voted recently if your server is not subscribed to premium. Afterwards you will have access to any vote-required commands for 24 hours.
 
 __**Command Permissions**__
 
