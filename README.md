@@ -2,7 +2,7 @@
 
 ![](https://top.gg/api/widget/status/713586207119900693.svg?noavatar=true) ![](https://top.gg/api/widget/servers/713586207119900693.svg?noavatar=true)
 
-[Add QOTD Bot to Your Server!](https://discord.com/oauth2/authorize?client_id=713586207119900693&scope=bot%20applications.commands&permissions=326418033664) | [Join Support Server](https://discord.gg/c9kQktCbsE) | [Donate with PayPal!](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=EW389DYYSS4FC)
+[Add QOTD Bot to Your Server!](https://discord.com/oauth2/authorize?client_id=713586207119900693&scope=bot%20applications.commands&permissions=2252126231710720) | [Join Support Server](https://discord.gg/c9kQktCbsE) | [Donate with PayPal!](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=EW389DYYSS4FC)
 
 ## Introduction
 
